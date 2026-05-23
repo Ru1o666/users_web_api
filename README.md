@@ -1,4 +1,4 @@
-# Python + MySQL + FastAPI 从零实战项目
+# Python + MySQL + FastAPI 全栈实战项目
 
 这是一个适合初学者学习全栈开发的极简项目，主要包含基础的控制台版增删改查（CRUD）应用，以及一个基于 FastAPI + 原生 HTML/JS 实现的 Web 端后台管理系统。
 
